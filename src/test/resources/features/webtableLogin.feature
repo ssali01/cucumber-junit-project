@@ -2,7 +2,7 @@ Feature: User should be able to login with valid credentials
 
   Background:
     Given user is on the login page of webtable app
-
+  @smoke
   Scenario: Login scenario with 1 parameter
     When user enters username "Test"
     And user enters password "Tester"
