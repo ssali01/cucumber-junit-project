@@ -1,5 +1,6 @@
 Feature: Practice page drop down options
-  @wip
+
+  @smoke
   Scenario: User should be able to see all 12 months in months
   dropdown
     Given User is on the dropdowns page of practice tool

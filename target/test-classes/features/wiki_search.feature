@@ -27,5 +27,5 @@ Feature: Wikipedia Search Functionality and verifications
       | Steve Jobs   | Steve Jobs    |
       | Bill Gates   | Bill Gates    |
       | Elon Mask    | Elon Mask     |
-      | Chuck Norris | Chuck Norris   |
+      | Chuck Norris | Chuck Norris  |
       | Bruce Lee    | Bruce Lee     |

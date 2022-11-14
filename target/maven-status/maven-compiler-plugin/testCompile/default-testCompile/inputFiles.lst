@@ -1,23 +1,23 @@
-C:\Users\salia\IdeaProjects\cucumber-junit-project\src\test\java\com\cydeo\step_definitions\EatingCucumber.java
-C:\Users\salia\IdeaProjects\cucumber-junit-project\src\test\java\com\cydeo\pages\BasePage.java
-C:\Users\salia\IdeaProjects\cucumber-junit-project\src\test\java\com\cydeo\pages\EtsyHomePage.java
-C:\Users\salia\IdeaProjects\cucumber-junit-project\src\test\java\com\cydeo\runner\CukesRunner.java
-C:\Users\salia\IdeaProjects\cucumber-junit-project\src\test\java\com\cydeo\step_definitions\Hooks.java
-C:\Users\salia\IdeaProjects\cucumber-junit-project\src\test\java\com\cydeo\utilities\BrowserUtils.java
-C:\Users\salia\IdeaProjects\cucumber-junit-project\src\test\java\com\cydeo\step_definitions\WikiSearch_StepDefinitions.java
-C:\Users\salia\IdeaProjects\cucumber-junit-project\src\test\java\com\cydeo\step_definitions\Dropdown_StepDef.java
-C:\Users\salia\IdeaProjects\cucumber-junit-project\src\test\java\com\cydeo\step_definitions\Login_StepDefinitions.java
-C:\Users\salia\IdeaProjects\cucumber-junit-project\src\test\java\com\cydeo\step_definitions\EtsySearch_StepDefinitions.java
-C:\Users\salia\IdeaProjects\cucumber-junit-project\src\test\java\com\cydeo\pages\WebTableLoginPage.java
-C:\Users\salia\IdeaProjects\cucumber-junit-project\src\test\java\com\cydeo\pages\WebTableOrderPage.java
-C:\Users\salia\IdeaProjects\cucumber-junit-project\src\test\java\com\cydeo\utilities\Driver.java
-C:\Users\salia\IdeaProjects\cucumber-junit-project\src\test\java\com\cydeo\step_definitions\WebTableOrderApp_StepDefs.java
-C:\Users\salia\IdeaProjects\cucumber-junit-project\src\test\java\com\cydeo\pages\GoogleSearchPage.java
-C:\Users\salia\IdeaProjects\cucumber-junit-project\src\test\java\com\cydeo\pages\WikiSearchPage.java
-C:\Users\salia\IdeaProjects\cucumber-junit-project\src\test\java\com\cydeo\runner\FailedTestRunner.java
-C:\Users\salia\IdeaProjects\cucumber-junit-project\src\test\java\com\cydeo\step_definitions\GoogleSearch_StepDefinitions.java
-C:\Users\salia\IdeaProjects\cucumber-junit-project\src\test\java\com\cydeo\step_definitions\WebTableLogin_StepDefs.java
-C:\Users\salia\IdeaProjects\cucumber-junit-project\src\test\java\com\cydeo\step_definitions\EtsyTitleVerification_StepDefinitions.java
-C:\Users\salia\IdeaProjects\cucumber-junit-project\src\test\java\com\cydeo\pages\ViewAllOrdersPage.java
-C:\Users\salia\IdeaProjects\cucumber-junit-project\src\test\java\com\cydeo\utilities\ConfigurationReader.java
-C:\Users\salia\IdeaProjects\cucumber-junit-project\src\test\java\com\cydeo\pages\DropdownPage.java
+C:\Users\salia\IdeaProjects\cucumber-junit-project - SQL\src\test\java\com\cydeo\step_definitions\EtsyTitleVerification_StepDefinitions.java
+C:\Users\salia\IdeaProjects\cucumber-junit-project - SQL\src\test\java\com\cydeo\step_definitions\EatingCucumber.java
+C:\Users\salia\IdeaProjects\cucumber-junit-project - SQL\src\test\java\com\cydeo\pages\WebTableLoginPage.java
+C:\Users\salia\IdeaProjects\cucumber-junit-project - SQL\src\test\java\com\cydeo\step_definitions\GoogleSearch_StepDefinitions.java
+C:\Users\salia\IdeaProjects\cucumber-junit-project - SQL\src\test\java\com\cydeo\utilities\BrowserUtils.java
+C:\Users\salia\IdeaProjects\cucumber-junit-project - SQL\src\test\java\com\cydeo\utilities\Driver.java
+C:\Users\salia\IdeaProjects\cucumber-junit-project - SQL\src\test\java\com\cydeo\step_definitions\Hooks.java
+C:\Users\salia\IdeaProjects\cucumber-junit-project - SQL\src\test\java\com\cydeo\runner\FailedTestRunner.java
+C:\Users\salia\IdeaProjects\cucumber-junit-project - SQL\src\test\java\com\cydeo\pages\EtsyHomePage.java
+C:\Users\salia\IdeaProjects\cucumber-junit-project - SQL\src\test\java\com\cydeo\step_definitions\Dropdown_StepDef.java
+C:\Users\salia\IdeaProjects\cucumber-junit-project - SQL\src\test\java\com\cydeo\step_definitions\Login_StepDefinitions.java
+C:\Users\salia\IdeaProjects\cucumber-junit-project - SQL\src\test\java\com\cydeo\runner\CukesRunner.java
+C:\Users\salia\IdeaProjects\cucumber-junit-project - SQL\src\test\java\com\cydeo\step_definitions\WebTableLogin_StepDefs.java
+C:\Users\salia\IdeaProjects\cucumber-junit-project - SQL\src\test\java\com\cydeo\pages\GoogleSearchPage.java
+C:\Users\salia\IdeaProjects\cucumber-junit-project - SQL\src\test\java\com\cydeo\pages\ViewAllOrdersPage.java
+C:\Users\salia\IdeaProjects\cucumber-junit-project - SQL\src\test\java\com\cydeo\step_definitions\EtsySearch_StepDefinitions.java
+C:\Users\salia\IdeaProjects\cucumber-junit-project - SQL\src\test\java\com\cydeo\step_definitions\WikiSearch_StepDefinitions.java
+C:\Users\salia\IdeaProjects\cucumber-junit-project - SQL\src\test\java\com\cydeo\pages\DropdownPage.java
+C:\Users\salia\IdeaProjects\cucumber-junit-project - SQL\src\test\java\com\cydeo\utilities\ConfigurationReader.java
+C:\Users\salia\IdeaProjects\cucumber-junit-project - SQL\src\test\java\com\cydeo\pages\WikiSearchPage.java
+C:\Users\salia\IdeaProjects\cucumber-junit-project - SQL\src\test\java\com\cydeo\step_definitions\WebTableOrderApp_StepDefs.java
+C:\Users\salia\IdeaProjects\cucumber-junit-project - SQL\src\test\java\com\cydeo\pages\BasePage.java
+C:\Users\salia\IdeaProjects\cucumber-junit-project - SQL\src\test\java\com\cydeo\pages\WebTableOrderPage.java

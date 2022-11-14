@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cucumber-junit-project" />
+        <module name="cucumber-junit-project - SQL" />
       </profile>
     </annotationProcessing>
   </component>
